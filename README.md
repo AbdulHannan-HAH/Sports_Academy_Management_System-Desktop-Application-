@@ -1,0 +1,1 @@
+This is Sports Academy Management System in C#. It behaves as a desktop application in which there are three roles (admin, coach and player). Players can login and see thier stats, fee structure, fee schedule etc.The functionalities for coaches are also same.
